@@ -1,0 +1,113 @@
+commit 07cd33116963666a374688fc839d0087532d1c77
+Author: Sofia <sofia.talarmo@helsinki.fi>
+Date:   Mon Mar 22 18:38:39 2021 +0200
+
+    Poista file1, uudelleennimeä file2->file22
+
+ folder/file2             | 0
+ folder/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 025d9ac977e10e9bd84cb8362a97e515ec5d7551
+Author: Sofia <sofia.talarmo@helsinki.fi>
+Date:   Mon Mar 22 18:37:13 2021 +0200
+
+    Lisää folder, file1, file2 and file3
+
+ folder/file1 | 0
+ folder/file2 | 0
+ folder/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 173afed761aedfcc33c84d72f66f65a4e04fec40
+Author: Sofia <sofia.talarmo@helsinki.fi>
+Date:   Mon Mar 22 18:32:04 2021 +0200
+
+    Lisää ja poista tekstiä tiedostsoista eka.txt ja kolmas.txt
+
+ eka.txt    | 4 ++--
+ kolmas.txt | 2 +-
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+
+commit 2404bf094a88995db36330370bd758f01e9e8fd6
+Author: Sofia <sofia.talarmo@helsinki.fi>
+Date:   Mon Mar 22 18:29:59 2021 +0200
+
+    Uudelleennimeä tiedosto.txt -> eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 64d34940b333182bfd24cdecbe1f4adeb71d927e
+Author: Sofia <sofia.talarmo@helsinki.fi>
+Date:   Mon Mar 22 18:29:33 2021 +0200
+
+    Poista toinen.txt
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit cbb2606d649c99cfa0ebfeb9b9eb67a06dc1d951
+Author: Sofia <sofia.talarmo@helsinki.fi>
+Date:   Mon Mar 22 18:28:48 2021 +0200
+
+    Poista vähän tekstiä tiedosto.txt:stä, ja lisää uutte tekstiä
+
+ tiedosto.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit da93fb55db3e2badcc6ef8804fe9bbef1466061a
+Author: Sofia <sofia.talarmo@helsinki.fi>
+Date:   Mon Mar 22 18:23:07 2021 +0200
+
+    Lisää tiedosto.txt:hen lorem ipsumista paragrafi
+
+ tiedosto.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 5699e83a8e153c28bd94d0510481da32662d1f01
+Author: Sofia <sofia.talarmo@helsinki.fi>
+Date:   Mon Mar 22 18:19:32 2021 +0200
+
+    Lisää jokin_tiedosto
+
+ stuff/jokin_tiedosto | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 7ad2099c3a4ee76acd044a6beb3b6a154a2cb00d
+Author: Sofia <sofia.talarmo@helsinki.fi>
+Date:   Mon Mar 22 18:18:20 2021 +0200
+
+    Muokkaa toinen.txt sekä kolmas.txt
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 24201e61589a1c8fa7fd47c5ab7dc9d58fd9c87e
+Author: Sofia <sofia.talarmo@helsinki.fi>
+Date:   Mon Mar 22 18:17:04 2021 +0200
+
+    Kolmas tiedosto
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 6388916532eae369591987bc9dd43d89d227657c
+Author: Sofia <sofia.talarmo@helsinki.fi>
+Date:   Mon Mar 22 18:15:45 2021 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 4976bda6fef5ace1e58d218a71fc532b453b41d1
+Author: Sofia <sofia.talarmo@helsinki.fi>
+Date:   Mon Mar 22 18:12:58 2021 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
