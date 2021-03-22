@@ -4,3 +4,5 @@ Tämä on git-repositorio **Helsingin Yliopiston** kurssia [Ohjelmistotekniikka,
 
 Linkki tiedostoon [komentorivi.txt](./laskarit/viikko1/komentorivi.txt)  
 Linkki tiedostoon [gitlog.txt](./laskarit/viikko1/gitlog.txt)
+
+Paikallisella tietokoneella tehty muutos README.md tiedostoon!
